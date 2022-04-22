@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Много задач</string>
+    <string name="start">Запуск процессов</string>
+    <string name="clicker">Набираем очки!</string>
 </resources>
